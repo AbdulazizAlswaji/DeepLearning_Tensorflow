@@ -1,8 +1,4 @@
-# Deep-Learning-with-Tensorflow
-
-
-Learning Objectives
-In this course you will learn about:
+# DeepLearning with Tensorflow (Python)
 
 * Using TensorFlow for Deep Learning
 * Breaking down images into their principal components and automatically generating a caption for it;
